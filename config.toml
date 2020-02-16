@@ -1,0 +1,85 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "manishayani.me"
+theme = "timer-hugo"
+
+# Navbar Menus
+[[menu.nav]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.nav]]
+name    = "Gallery"
+url     = "gallery"
+weight  = 4
+[[menu.nav]]
+name    = "Blog"
+url     = "blog"
+weight  = 5
+[[menu.nav]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+author = "Manish Ayani"
+# Google Analitycs
+googleAnalitycsID = "ayani.manish@gmail.com"
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/slider.jpg"
+heading = "Hi, My name is Manish and I am a"
+description = "Exploring Opportunities as an entry-level Cyber Security Specialist using acquired analytical, innovation and problem-solving skills to identify possibilities of security breaches/malpractices and ensure implementation of countermeasures for safeguarding the organisation against future threats."
+
+
+# flip text
+[[params.banner.flipText]]
+title   = "DESIGNER"
+[[params.banner.flipText]]
+title   = "DEVELOPER"
+[[params.banner.flipText]]
+title   = "PEN TESTER"
+[[params.banner.flipText]]
+title   = "STUDENT"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "ABOUT ME"
+content = "I grew up in India where I did my schooling and Bachelors in Computer Applications with Majors in Software Development. Through the duration of my Bachelors, I was actively indulged in many projects and cultural programs at the university. This immensely helped me to build a holistic view of how technology has touched every corner of our lives. What followed next was a paranoia surrounding the security of all my devices and the data on them. Thus I began growing keen towards Cyber Security. As a result, I decided to pursue my Masters in the same. I am currently pursuing my Masters in Information Technology from University of Technology Sydney with majors in Cybersecurity and Internetworking."
+image   = "images/about/coder.png"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "SO WHAT YOU THINK ?"
+btnText = "Contact Me"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Recent Blogs"
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "https://www.facebook.com/ayani.manish"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "https://www.instagram.com/manish_ayani/"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "https://www.linkedin.com/in/manishayani/"
+
+[[params.socialIcon]]
+icon = "ion-social-github"
+url = "https://github.com/manishayani"

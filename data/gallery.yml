@@ -1,0 +1,13 @@
+enable  : true
+galleryImages :
+  - image : images/portfolio/Git.PNG
+  - image : images/portfolio/hugo_theme.PNG
+  - image : images/portfolio/Setting_Hugo_as_Environment_Variable.PNG
+  - image : images/portfolio/sublime.PNG
+  - image : images/portfolio/hugo_git_initialization.PNG
+  - image : images/portfolio/collab.PNG
+  - image : images/portfolio/collab_problem.PNG
+  - image : images/portfolio/configure_network.jpeg
+  - image : images/portfolio/kali_bootable2.png
+  - image : images/portfolio/linux_email.PNG
+  - image : images/portfolio/kali_bootable.png

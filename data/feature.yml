@@ -1,0 +1,21 @@
+enable  : true
+title   : Industrial Knoweledge
+subtitle: >
+item    :
+  - icon  : ion-code-working
+    title : UNIX Shell Scripting
+    
+  - icon  : ion-code-download
+    title : Software Development using C, C++, Java.
+
+  - icon  : ion-ios-keypad-outline
+    title : Android Application Development
+
+  - icon  : ion-ios-keypad-outline
+    title : Hardware and Network troubleshooting
+    
+  - icon  : ion-ios-barcode-outline
+    title : Image Editing using Photoshop, CoralDraw
+    
+  - icon  : ion-ios-lightbulb-outline
+    title : 3D Animation using Unity
