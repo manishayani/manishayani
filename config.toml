@@ -1,4 +1,4 @@
-baseURL = "manishayani.me"
+baseURL = ""
 languageCode = "en-us"
 title = "manishayani.me"
 theme = "timer-hugo"
@@ -13,7 +13,7 @@ name    = "Gallery"
 url     = "gallery"
 weight  = 4
 [[menu.nav]]
-name    = "Blog"
+name    = "Blogs"
 url     = "blog"
 weight  = 5
 [[menu.nav]]
