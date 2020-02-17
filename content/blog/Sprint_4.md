@@ -1,12 +1,12 @@
 ---
 title: "Sprint 4"
 type: portfolio
-Date: 2020-02-04T16:54:54+06:00
+Date: 2020-02-16T20:08:10+06:00
 description : "This is meta description"
 caption: Reflection
 image: images/blog/week-4.jpg
-Category: ["reflection","sprint 3"]
-submitDate: 08 February, 2020
+Category: ["reflection","sprint 4"]
+submitDate: 16 February, 2020
 Location: UTS
 ---
 ### INTRODUCTION
@@ -23,6 +23,8 @@ Different VM’s have their own set of vulnerabilities and different ways to exp
 ## BSides 2020
 While having a chat with Larry during the class, he told me about BSides 2020. BSides is an international security conference, to be held in Canberra this year. I researched it a little bit and found that it a kind of big deal in the Information security domain. Larry told us it is a good place to be and also to network with industry professionals. I checked on the guest speakers list, there are some amazing people attending this year and with very interesting topics. I am planning to go to the conference, once I sought out my autumn semester timetable.
 
+![BSides 2020](/images/blog/bsides2020.PNG)
+
 ## Bug Bounty Program
 I have been hearing so much about bug bounty programs from the past two weeks which made me look into it. I have heard about Bug Bounties before but did not have much knowledge about it. Bug Bounties is a kind of deal offered to individuals to receive recognition and compensation offered by many organisations for reporting bugs and especially security vulnerabilities. Bug Bounty programs are becoming very popular due to the increase in the number of cybercrime cases. Even companies such as Microsoft, Mozilla, Google, Yahoo etc are also implementing Bug Bounties Program. This is comparatively a cheaper way for organisations to secure their product rather than hiring white-hat hackers to penetrate the system. For individuals, these programs are a great learning experience and I will surely consider this to pursue as my side career.
 ![Bug Bounty](/images/blog/bugbounty.PNG)
@@ -34,7 +36,7 @@ A few days back, I got to know about an online platform, Insidesherpa which offe
 ## Mr Robot CTF
 MR Robot is a vulnerable machine, available on VulnHub. This game is based on the popular Tv show Mr Robot. The aim of the game is to find three keys hidden at different locations. As the game progresses, the difficulty level of the game increases. 
 
-[Click here](/Mr_Robot.md) to see my Mr Robot Journey so far
+[Click here](/blog/mr_robot) to see my Mr Robot Journey so far
 
 ## Challenges Faced
 

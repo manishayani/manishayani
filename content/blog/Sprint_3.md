@@ -1,12 +1,12 @@
 ---
 title: "Sprint 3"
 type: portfolio
-Date: 2020-02-04T16:54:54+06:00
+Date: 2020-02-09T16:54:54+06:00
 description : "This is meta description"
 caption: Reflection
 image: images/blog/week-3.jpg
 Category: ["reflection","sprint 3"]
-submitDate: 08 February, 2020
+submitDate: 09 February, 2020
 Location: UTS
 ---
 ### INTRODUCTION
@@ -20,6 +20,8 @@ We were again asked to form a group of 3 for the presentation to be given on Thu
 Like last week, each group member took one pointer to research and present on Thursday. Hayden, one of my group members created a presentation template on Canva, where we can all edit the slides and Dowsen, the other member of the group created the private group on Microsoft Teams for communication amongst the group.
 
 ![Collaboration](/images/blog/SQL.PNG)
+
+![Canva](/images/blog/canva.PNG)
 
 ## Presentations
 On Thursday, we had to give our presentation on the topic of choice for Web Application Penetration. Our topic of the presentation was SQL Injection (SQLI). Out of all the topics in Web Application Penetration, I had some prior experience in this topic. I tried using SQL Injection on my School Website and was easily able to access the master student information database for the school. Subsequently, I informed the school’s IT department about the vulnerability and suggestions on patching it. That was my first interaction with web application penetration. Sadly my suggestions fell on deaf ears and even after all these years, that SQL vulnerability still exists.
@@ -60,7 +62,7 @@ The OWASP Juice shop is a vulnerable web application created by OWASP for educat
 ![OWASP Game](/images/blog/OWASP-Juice.PNG)
 
 
-[Click here](/OWASP_juicebox.md) to see my OWASP juicebox Journey so far
+[Click here](/blog/owasp_juicebox) to see my OWASP juicebox Journey so far
 
 
 ## Bandit Wargame
@@ -68,13 +70,13 @@ Bandit is a wargame which is for beginners to increase their linux commands skil
 
 ![Bandit Wargame](/images/blog/bandit.PNG)
 
-[Click here](bandit.md) to see my Bandit Journey so far
+[Click here](/blog/bandit) to see my Bandit Journey so far
 
-##Things went good this week
+##Things that went good this week
 1. Nvidia with Kali
 Even after deciding not to try anymore of nvidia with kali, I still gave it one more shot and tried to install Nvidia drivers on Kali. I followed the official guide and executed everything slowly and calmly. After waiting a while I was successful in installing drivers.(A sigh of relief).
 
-![NVidia with Kali](/images/blog/NVidia_kali.PNG)
+![NVidia with Kali](/images/blog/NVidia-Kali.png)
 
 2. Confident around linux shell and commands
 After spending most of my time this week on Bandit and OWASP Juice Shop, I am much more comfortable with Linux and Terminal.
