@@ -72,7 +72,7 @@ Bandit is a wargame which is for beginners to increase their linux commands skil
 
 [Click here](/blog/bandit) to see my Bandit Journey so far
 
-##Things that went good this week
+## Things that went good this week
 1. Nvidia with Kali
 Even after deciding not to try anymore of nvidia with kali, I still gave it one more shot and tried to install Nvidia drivers on Kali. I followed the official guide and executed everything slowly and calmly. After waiting a while I was successful in installing drivers.(A sigh of relief).
 
