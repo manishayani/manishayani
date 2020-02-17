@@ -5,8 +5,8 @@ Date: 2020-02-04T16:54:54+06:00
 description : "This is meta description"
 caption: Learning Journal
 image: images/blog/bandit.jpg
-Category: ["reflection","sprint 3"]
-submitDate: 08 February, 2020
+Category: ["Learning Journal"]
+submitDate: 04 February, 2020
 Location: UTS
 ---
 ### INTRODUCTION

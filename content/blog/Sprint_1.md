@@ -1,12 +1,12 @@
 ---
 title: "Sprint 1"
 type: portfolio
-Date: 2020-01-22T16:54:54+06:00
+Date: 2020-01-26T10:30:54+06:00
 description : "This is meta description"
 caption: Reflection
 image: images/blog/post-1.gif
 Category: ["reflection","sprint 1"]
-submitDate: January 22, 2020
+submitDate: January 26, 2020
 Location: UTS
 ---
 ### INTRODUCTION

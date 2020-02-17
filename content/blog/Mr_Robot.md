@@ -1,12 +1,12 @@
 ---
 title: "Mr Robot CTF"
 type: portfolio
-Date: 2020-02-04T16:54:54+06:00
+Date: 2020-02-14T13:02:45+06:00
 description : "This is meta description"
 caption: Learning Journal
 image: images/blog/mrrobot.jpg
-Category: ["reflection","sprint 4"]
-submitDate: 08 February, 2020
+Category: ["Learning Journal"]
+submitDate: 14 February, 2020
 Location: UTS
 ---
 ### INTRODUCTION
