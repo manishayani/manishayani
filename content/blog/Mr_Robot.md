@@ -49,7 +49,7 @@ From the above image, we can see that there are 2 active ports 80(http) and 443(
 
 > nikto -h 192.168.88.130
 
-![Nikto](/images/blog/nikto.PNG)
+![Nikto](/images/blog/nikto1.PNG)
 
 After looking into the results and seeing various files, we landed onto a wordpress admin page
 
