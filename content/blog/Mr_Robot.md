@@ -96,5 +96,72 @@ Now once we got the username, we could do the same to bruteforce the password
 
 ![loggedin](/images/blog/loggedin.PNG)
 
-To Be Continued ...
+13. Now when we are logged in, we need to find a way to get the shell.
+
+Since we dont have direct access to the system, we have to get the shell using Reverse Shell
+We will inject a PHP Script in the '404 Page'. This script will get executed whenever someone lands on to the '404 - NOT Found' Page.
+This script will give us access to the shell
+
+So, Select Appereance Tab, from the left bar and click on editor. On the right side, under the template section there is a page 404 Template.
+Open the page, remove everything and add the php script found on -> https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
+
+Change $ip and $port parameter to your IP (192.168.88.129) and your desired port (1234).
+
+Click Update File at the bottom.
+
+![editor](/images/blog/editor.PNG)
+
+
+14. Next step is to setup a port listner on our Kali Machine, to get access to shell.
+To set up a listner we will use, netcat
+
+> nc lsv 1234
+
+From the browser, open the website and add any random text in the url after '/' to open 404 page. After this is executed, the shell also gets executed
+
+![http-404](/images/blog/http-404.PNG)
+
+![Reverse Shell](/images/blog/reverse_shell.PNG)
+
+15. Once we have a shell we will look for files of importance, After browsing little bit a found a directory robot in Home Directory, which had our second key, the file requires sudo access and we dont have the password for su.
+There is another file in the directory named password.raw-md5. After opening the file, It looks like there is a password but it is encrypted.
+
+So, I copied the encrypted text and googled it, I found the original value for it.
+
+![key2error](/images/blog/key2error.PNG)
+
+![original_text](/images/blog/original_text.PNG)
+
+16.  Now all we need is to gain super user access and get our second key. But it gave an error as the su access is only from the terminal.
+
+![TTY_Access_Problem](/images/blog/tty_access_problem.PNG)
+
+17. We need to get the terminal access to execute su. For that, we will use a command which will invoke terminal access through python.
+>python -c 'import pty; pty.spawn("/bin/bash")'
+
+After which I su and see our 2nd key.
+
+![bash_access](/images/blog/bash_access.PNG)
+
+18. After browsing through the system, I found there are 2 root directories, named 'root' and 'lost+found'
+
+![root_directories](/images/blog/root_directories.PNG)
+
+But we dont have access to it as we are not the root user.
+
+19. On serching online, I found out there is a way that installed applications can run and execute commands with rooot privilages. One of them being nmap.
+> find / -perm -4000 -type f 2>/dev/null
+
+This commands returs all the applications that can execute commands with root privilages
+
+![installed_applications](/images/blog/installed_applications.PNG)
+
+20. We will use NMap, to gain su privilages and open the root directory.
+> /usr/local/bin/nmap --interactive
+
+21. After Using nmap, I opened the root directory and found my third key there.
+
+![nmap_root_access](/images/blog/nmap_root_access.PNG)
+
+
 
