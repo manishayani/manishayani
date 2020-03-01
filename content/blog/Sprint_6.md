@@ -16,7 +16,7 @@ The last week of the summer studio was in continuation with the last two week's 
 ## OPEN ADMIN
 Last week I began with boot2root challenge on Hackthebox with OpenAdmin. Open Admin was a good live machine to solve. I certainly feel that my skills and knowledge have improved. Until last week, I was able to get the user access on the box, continuing the same on this week I was able to get the root access on the machine.
 
-[Click Here](/blog/Week-6/Open_Admin_root.pdf) to see my Open Admin Writeup
+[Click here to see Open Admin Writeup](/static/files/Open_Admin_rootz.pdf)
 
 ## PRESENTATION
 For Thursday’s presentation, we had to present on one of the boxes and solving it, It was a group presentation so I teamed up with Aryan and Jiahao. We decided to present on TraverXec, another box available on HackTheBox. We started with TraveXec in the class itself and was solving it. We were helping each other wherever we faced problems. We were able to get a remote shell by the end of the class. After the class was over, we decided on to communicate over teams and finish this thing by Wednesday. We shared all the steps for solving the challenge and then Aryan took the responsibility to make a video of it.
