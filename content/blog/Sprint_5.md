@@ -24,7 +24,7 @@ At the start of the Hack the Box, you are greeted with an invite challenge. Upon
 
 ![Invite Challenge](/images/blog/invite_challenge.PNG)
 
-[Click here](/blog/HackTheBox)to see how I solved the Invite Challenge.
+[Click here](/blog/HackTheBox) to see how I solved the Invite Challenge.
 
 ## Insights from the Deloitte Cyber Attack and Response Team
 
