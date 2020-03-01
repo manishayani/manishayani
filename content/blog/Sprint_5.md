@@ -39,12 +39,10 @@ We were presented with a Virtual machine, created by Deloitte professionals. We 
 
 ![Deloitte VM](/images/blog/Deloitte_VM.PNG)
 
-[Click here](/blog/deloitte_VM) to see my Deloitte Vm Journey
-
 ## OpenAdmin VM
 OpenAdmin is a Linux Box available on Hack the Box Platform. The difficulty level of this VM is easy. This is the first machine of 2020 provided by Hackthebox. I have also started with the machine and so far I was able to get the user access.
 
-[Click Here] (/blog/Week-6/Open_Admin_user.pdf) to see my Open Admin Writeup
+[Click Here](/blog/Week-6/Open_Admin_user.pdf) to see my Open Admin Writeup
 
 ## Challenges Faced This Week
 1. Frustration - While doing Boot 2 Root Challenges and exploiting VMs, there were times when I got stuck and was unable to proceed further. During these times I got frustrated and started looking at the writeups. I should really try to avoid these things to become a successful Cybersecurity professional.
