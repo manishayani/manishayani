@@ -34,7 +34,6 @@ At the start of the Hack the Box, you are greeted with an invite challenge. Upon
 4. They also discussed the structure of a penetration test which involves a series of steps from Scoping to Reporting.
 5. One of the interesting topics which I really liked was Red Teams Operations. A Red Team is a group of professional pen testers that assess the security of the organisation. The difference between normal penetration testing and red team operation is that, in Red Team operation, only a few people from the organisation have knowledge about the Red Team Operating. It is basically a simulation of an actual attack that an organisation might face and their response towards it. Whereas in normal penetration testing, all the people in the organisation is quite aware of pen-testers operating, so the organisation might take it causally. Penetration testing is scope based whereas red teams aim at compromising the system by any means.
 
-
 ## Deloitte VM
 We were presented with a Virtual machine, created by Deloitte professionals. We were required to find and exploit the vulnerabilities in the VM aiming to gain the root access. The Deloitte professionals were there to guide and help us reach further. The VM looked like it was built upon Linux.
 
@@ -45,7 +44,7 @@ We were presented with a Virtual machine, created by Deloitte professionals. We 
 ## OpenAdmin VM
 OpenAdmin is a Linux Box available on Hack the Box Platform. The difficulty level of this VM is easy. This is the first machine of 2020 provided by Hackthebox. I have also started with the machine and so far I was able to get the user access.
 
-[Click here](/blog/OpenAdmin) to see OpenAdmin writeup
+[Click Here] (/blog/Week-6/Open_Admin_user.pdf) to see my Open Admin Writeup
 
 ## Challenges Faced This Week
 1. Frustration - While doing Boot 2 Root Challenges and exploiting VMs, there were times when I got stuck and was unable to proceed further. During these times I got frustrated and started looking at the writeups. I should really try to avoid these things to become a successful Cybersecurity professional.
