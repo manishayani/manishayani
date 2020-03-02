@@ -4,8 +4,8 @@ type: portfolio
 Date: 2020-3-3T06:22:12+06:00
 description : "This is meta description"
 caption: Reflection
-image: images/blog/portfolio.png
-Category: ["reflection","sprint 6"]
+image: images/blog/portfolio.PNG
+Category: ["reflection","final Portfolio Submission"]
 submitDate: 01 March, 2020
 Location: UTS
 ---

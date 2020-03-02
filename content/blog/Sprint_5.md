@@ -52,6 +52,10 @@ OpenAdmin is a Linux Box available on Hack the Box Platform. The difficulty leve
 ## Reflecting Upon Feedback
 After submitting the last Reflection for Sprint 3 & 4, I received positive feedback from the tutor. There were two things that were said for the scope of improvement which includes more collaborative work improving Technical writeup skills. For the collaboration, this week I communicated with other guys as much as I could and solved challenges together. Sometimes I tried helping them where they got stuck and received the same from them. For the Deloitte VM also, I and Aryan were solving the VM together and were helping each other. 
 
+![Collaboration](/images/blog/collab12.PNG)
+
+![Collaboration](/images/blog/collab13.PNG)
+
 For the writeups, I saw 2-3 different writeups and tried to improve upon it in this week's deliverable. I have written writeup in a clear and structured format, that is easily understandable to a person with a non-technical background.
 
 ## Goals for the next week
