@@ -6,7 +6,7 @@ description : "This is meta description"
 caption: Reflection
 image: images/blog/portfolio.PNG
 Category: ["reflection","final Portfolio Submission"]
-submitDate: 01 March, 2020
+submitDate: 03 March, 2020
 Location: UTS
 ---
 
@@ -15,7 +15,7 @@ The Summer Studio Journey was exciting and fruitful. I certainly believe that my
 
 ## Achieving the SLO’s
 
-## 1. Engage with stakeholders to identify the problem
+## 0. Engage with stakeholders to identify the problem
 During the span of this subject, I had learnt an enormous amount of things in regards to the Security Domain. This learning wouldn't have been possible by engaging with the industrial professionals who helped me define my problem statement. There were many industry professionals that I was able to talk including
 Patrick Kelso (UTS IT Security Team)
 Robert Mitchell (Gitlab)
@@ -39,7 +39,11 @@ The starting steps remain the same for every design that is to gather informatio
 
 As this was a technical subject using technical skills was the primitive thing. Throughout the studio, I used a lot of technical expertise, and I believe my skills have improved to a great extent. Starting with setting up git and Hugo, a totally new topic for me, I did hear of git before but never felt like using it. At the start of this subject, I started by setting up a git account. It was so confusing, and I couldn't figure out the need for it. After watching videos over the internet, it became quite understandable. After that Hugo and using markdown language, honestly, till date I am not a fan of Hugo I personally feel that it adds more work instead of reducing it, I believe using HTML was better. Eventually, Hugo converts the markdown syntax into markup language, so it is better to use the markup language itself. But as this was the requirement of the subject, I learned it and anyways it adds one more language to your skillset.
 
+![git](/images/blog/git.PNG)
+
 The one technical skill that I believe I am good at and demonstrated conclusively throughout this studio is Web Search. The ability to find a particular query and apply solutions correctly is also a high technical skill. Most of the time, we were required to find one specific exploit from the internet and use them to access the server.
+
+![googling](/images/blog/googling.PNG)
 
 As the week progressed, I became more and more confident with my Linux terminal skills which I practised on Bandit and Natas wargames. Then, later using all the pentest tools, some of them I was familiar with, and some were very new to me. Tools such as Nmap, hydra and nikto are easy to understand, and I knew these in advance whereas tools such as Metasploit, john and cURL, I had no idea about these and got surprised about the capabilities of these tools.
 
