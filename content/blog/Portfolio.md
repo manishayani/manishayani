@@ -1,11 +1,11 @@
 ---
-title: "Final Portfolio Submission"
+title: "Final Portfolio Submissions"
 type: portfolio
-Date: 2020-3-3T06:22:12+06:00
+Date: 2020-03-02T10:30:54+06:00
 description : "This is meta description"
 caption: Reflection
 image: images/blog/portfolio.PNG
-Category: ["reflection","final Portfolio Submission"]
+Category: ["reflection","Final Portfolio Submissions"]
 submitDate: 03 March, 2020
 Location: UTS
 ---
@@ -56,6 +56,10 @@ In the third week, we presented on the  SQL injection attack, with a live demo. 
 Apart from the presentation, I collaborated with other peers during solving boot2root challenges. I helped Jiahao for setting up an open VPN properly. Also, Aryan and I were solving the Deloitte VM together.
 
 All the communication took place through teams app. We used to share a deadline one day before presentation or submissions to complete the assigned part, and almost all were able to finish their part by then. Now that the studio has finished I realise that it was not much of an effort to collaborate with others, I was just being lazy and kept on procrastinating it.
+
+![teams](/images/blog/team1.PNG)
+![teams](/images/blog/team2.PNG)
+![teams](/images/blog/team3.PNG)
 
 ## 5. Conduct critical self and peer review and performance evaluation.
 

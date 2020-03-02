@@ -1,12 +1,12 @@
 ---
 title: "Sprint 6"
 type: portfolio
-Date: 2020-2-29T08:22:12+06:00
+Date: 2020-03-02T10:30:54+06:00
 description : "This is meta description"
 caption: Reflection
 image: images/blog/Week-6/week6.png
 Category: ["reflection","sprint 6"]
-submitDate: 01 March, 2020
+submitDate: 03 March, 2020
 Location: UTS
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Sprint 2"
 type: portfolio
-Date: 2020-01-22T16:54:54+06:00
+Date: 2020-02-02T16:54:54+06:00
 description : "This is meta description"
 caption: Reflection
 image: images/blog/week-2.jpeg
